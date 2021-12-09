@@ -122,7 +122,7 @@ h2 {
     background-color: #2589bd;
 }
 /* made a new class for the sidebar css section to shorten things */
-.sidebar {
+/* .sidebar {
     margin-bottom: 32px;
 }
 
@@ -130,7 +130,7 @@ h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
  /* .benefit-lead {
     margin-bottom: 32px;
@@ -168,7 +168,7 @@ h2 {
     max-width: 150px;
 } */
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -178,7 +178,7 @@ h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 /* simplified repeating class attributes */
 .blurb {
@@ -228,7 +228,7 @@ h2 {
 
 /* .social-media-marketing img {
     max-height: 200px;
-} */ */
+} */ 
 
 /* reduced to a single css tag */
 
