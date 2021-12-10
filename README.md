@@ -33,3 +33,4 @@ On the html side, also commented out the associating ".benefit-lead, .benefit-br
 
 Found the blurb class upon closing and reloading. Suspecting that I was editing an html file that I wasn't viewing in my browser
 Readded the ".sidebar" class that I made after noticing the right side box wasn't loading properly.
+Changed website title
