@@ -30,3 +30,6 @@ Reduced the grey lettering into ".seo"
 Added an "h2" css modifier
 Commented out large secions of ".benefit-lead, .benefit-brand, .benefit-cost, h3, img, .search-engine-optimization, .online-reputation-management, .social-media-marketing" as they all had parent tags or classes that could be used instead for a cleaner looking file.
 On the html side, also commented out the associating ".benefit-lead, .benefit-brand, .benefit-cost, h3, img, .search-engine-optimization, .online-reputation-management, .social-media-marketing" class identifiers as they were no longer needed.
+
+Found the blurb class upon closing and reloading. Suspecting that I was editing an html file that I wasn't viewing in my browser
+Readded the ".sidebar" class that I made after noticing the right side box wasn't loading properly.
