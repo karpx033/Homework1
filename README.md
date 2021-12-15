@@ -36,3 +36,12 @@ Readded the ".sidebar" class that I made after noticing the right side box wasn'
 Changed website title
 Added alt attributes
 Included a screenshot
+// Below are changes for resubmission
+<!-- <div class="content"> --> and changed it to a section. Moved the .content css to a section css
+<!-- <div id="search-engine-optimization" class="blurb"> --> and moved into an article. Moved the .blurb css to an article css
+<!-- <div id="online-reputation-management" class="blurb"> --> and moved into an article. Article css has already been created above.
+<!-- <div id="social-media-marketing" class="blurb"> --> and moved into an article. Article css has already been created above.
+<!-- <div class="benefits"> --> and moved into a span element. Moved the .benefits css into a span css
+<!-- <div class="hero"></div> --> and moved into an object element to free up the div element. Moved .hero css into object css
+<!-- <div class="sidebar"> --> and moved into just the now sparely, and similarily, used div element. Moved .sidebar css into div css
+<!-- <h1>Hori<span class="seo">seo</span>n</h1> --> as I had added css to the span element above. The line now reads: <h1>Hori<h1 class="seo">seo</h1><h1>n</h1></h1>. Needed an extra h1 tag at the end to make the last letter load properly. The "seo" class attributes overrule any attributes defined in h1 so using it as a section tag is fine.
